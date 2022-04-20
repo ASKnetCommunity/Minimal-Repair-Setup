@@ -34,7 +34,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
  # Setup-1-Adjumani 
 
 
- #There are 64pieces of tools in the kit,these include:
+ There are 64pieces of tools in the kit,these include:
 
 - Tweezer
 
