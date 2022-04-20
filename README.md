@@ -31,7 +31,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - FM aerials
   to mention but a few
 
- 1.TEAM ADJUMANI TRACK ll TOOL KIT
+ # Setup-1-Adjumani 
 
 
  #There are 64pieces of tools in the kit,these include:
@@ -66,7 +66,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Soldering gun stand
   
-2.TEAM EDEN TOOLKIT - RHINO CAMP
+# Setup-5-Eden 
 
 - Soldering gun
 
@@ -80,7 +80,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Digital multimetre
 
-3.TEAM JUBA/TORIT TOWN TRACK II TOOLKIT CONTENT LIST.
+# Setup-3-Juba
 
 - Wire strainer
 
@@ -104,7 +104,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Gripper
 
-4.TEAM JUBA GOGIRLS ICT TRACK ll TOOLKIT CONTENT LIST.
+# Setup-4-Juba
 
 - 2computer blowers
 
@@ -118,7 +118,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - 1wire cutter
 
-5.TEAM PAGIRINYA TRACK ll TOOLKIT CONTENT LIST
+# Setup-2-Pagirinya 
 
 - phone set(4)
 
